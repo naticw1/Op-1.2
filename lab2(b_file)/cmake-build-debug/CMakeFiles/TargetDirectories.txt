@@ -1,0 +1,3 @@
+C:/Op-1.2/2-semlab/test(lab2)/cmake-build-debug/CMakeFiles/test_lab2_.dir
+C:/Op-1.2/2-semlab/test(lab2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Op-1.2/2-semlab/test(lab2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
